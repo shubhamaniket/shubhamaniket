@@ -7,16 +7,19 @@ Welcome to my Profile 😄
 <br>
 
 <p align="center">
-<a href="https://play.google.com/store/apps/collection/cluster?clp=igM5ChkKEzYxMzM5MTE3NjQ4OTA5MzI3MzYQCBgDEhoKFGNvbS5kdW9jb2RlcnMudW5rZXB0EAEYAxgB:S:ANO1ljKZk7s&gsr=CjyKAzkKGQoTNjEzMzkxMTc2NDg5MDkzMjczNhAIGAMSGgoUY29tLmR1b2NvZGVycy51bmtlcHQQARgDGAE%3D:S:ANO1ljJ6nrM&hl=en">
+<a href="https://play.google.com/store/apps/collection/cluster?clp=igM5ChkKEzYxMzM5MTE3NjQ4OTA5MzI3MzYQCBgDEhoKFGNvbS5kdW9jb2RlcnMudW5rZXB0EAEYAxgB:S:ANO1ljKZk7s&gsr=CjyKAzkKGQoTNjEzMzkxMTc2NDg5MDkzMjczNhAIGAMSGgoUY29tLmR1b2NvZGVycy51bmtlcHQQARgDGAE%3D:S:ANO1ljJ6nrM&hl=en" target="_blank">
 <img src="play.png" width="50" height="50">
 </a>
-<a href="https://www.linkedin.com/in/shubhamaniket/">
+<a href="https://www.linkedin.com/in/shubhamaniket/" target="_blank">
 <img src="linkedin.png" width="50" height="50">
 </a>
 </p>
 
 <br>
-
+<p>
+Hey There Folks ! ✌<br><br>
+I am Shubham Aniket and here is a bit about myself. 😄 
+</p>
 <h2>About</h3>
 <ul>
 <li>React Native App Developer & a UI/UX designer</li>
@@ -32,7 +35,7 @@ Welcome to my Profile 😄
 <br><br>
 <p style="font-size:16px" align="center">
 Codebooks lets you download and view coding related Ebooks for free.<br>
-Play Store Link - <a href="https://play.google.com/store/apps/details?id=com.codebooks&hl=en">CodeBooks</a>
+Play Store Link - <a href="https://play.google.com/store/apps/details?id=com.codebooks&hl=en" target="_blank">CodeBooks</a>
 </p>
 <br>
 </p>
@@ -41,7 +44,7 @@ Play Store Link - <a href="https://play.google.com/store/apps/details?id=com.cod
 <br><br>
 <p style="font-size:16px" align="center">
 This app lets you view information about any movie and tv shows.<br>
-Play Store Link - <a href="https://play.google.com/store/apps/details?id=com.duocoders.movieous&hl=en">Movieous</a>
+Play Store Link - <a href="https://play.google.com/store/apps/details?id=com.duocoders.movieous&hl=en" target="_blank">Movieous</a>
 </p>
 </p>
 <p align="center">
@@ -49,7 +52,7 @@ Play Store Link - <a href="https://play.google.com/store/apps/details?id=com.duo
 <br><br>
 <p style="font-size:16px" align="center">
 This App lets you download & Share wallpapers.<br>
-Play Store Link - <a href="https://play.google.com/store/apps/details?id=com.ducoders.fandom&hl=en">wallpaper.ly</a>
+Play Store Link - <a href="https://play.google.com/store/apps/details?id=com.ducoders.fandom&hl=en" target="_blank">wallpaper.ly</a>
 </p>
 </p>
 
