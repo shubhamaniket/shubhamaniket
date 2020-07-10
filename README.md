@@ -53,6 +53,8 @@ Play Store Link - <a href="https://play.google.com/store/apps/details?id=com.duo
 <p style="font-size:16px" align="center">
 This App lets you download & Share wallpapers.<br>
 Play Store Link - <a href="https://play.google.com/store/apps/details?id=com.ducoders.fandom&hl=en" target="_blank">wallpaper.ly</a>
+<br><br>
+<b>for more check out my github ......</b>
 </p>
 </p>
 
