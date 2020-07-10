@@ -8,7 +8,7 @@ Welcome to my Profile 😄
 
 <p align="center">
 <a href="https://play.google.com/store/apps/collection/cluster?clp=igM5ChkKEzYxMzM5MTE3NjQ4OTA5MzI3MzYQCBgDEhoKFGNvbS5kdW9jb2RlcnMudW5rZXB0EAEYAxgB:S:ANO1ljKZk7s&gsr=CjyKAzkKGQoTNjEzMzkxMTc2NDg5MDkzMjczNhAIGAMSGgoUY29tLmR1b2NvZGVycy51bmtlcHQQARgDGAE%3D:S:ANO1ljJ6nrM&hl=en" target="_blank">
-<img src="play.png" width="50" height="50">
+<img src="https://raw.githubusercontent.com/shubhamaniket/shubhamaniket/master/play.png" width="50" height="50">
 </a>
 <a href="https://www.linkedin.com/in/shubhamaniket/" target="_blank">
 <img src="linkedin.png" width="50" height="50">
