@@ -1,7 +1,7 @@
 Welcome to my Profile 😄
 =====================
 <p align="center">
-<img src="giphy.gif" width="200" height="200" align="center">
+<img src="https://github.com/shubhamaniket/shubhamaniket/blob/master/giphy.gif" width="200" height="200" align="center">
 </p>
 
 <br>
