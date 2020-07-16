@@ -28,34 +28,7 @@ I am Shubham Aniket and here is a bit about myself. 😄
 <li>Currently trying to write dev articles ✍</li>
 <li>Want to learn Internet of Things 💡 in future.</li>
 </ul>
-
-<h2>Projects</h2>
-<p align="center">
-<img src="https://lh3.googleusercontent.com/kkAlBOWdbQWJdjNEJlULiOgvGUWsguEHlzb8sgIy_VNI1LgtEHWH46wtmdutgJTEFWg2=s180" height="150" width="150">
-<br><br>
-<p style="font-size:16px" align="center">
-Codebooks lets you download and view coding related Ebooks for free.<br>
-Play Store Link - <a href="https://play.google.com/store/apps/details?id=com.codebooks&hl=en" target="_blank">CodeBooks</a>
-</p>
 <br>
-</p>
 <p align="center">
-<img src="https://lh3.googleusercontent.com/XHbVTIIfF_-UZ8TMwInVOp1ulu8mpx_G5jgF_oOCND8zg94XHMqWjpsKmMaOJfTqJ6CV=s180" height="150" width="150">
-<br><br>
-<p style="font-size:16px" align="center">
-This app lets you view information about any movie and tv shows.<br>
-Play Store Link - <a href="https://play.google.com/store/apps/details?id=com.duocoders.movieous&hl=en" target="_blank">Movieous</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=shubhamaniket&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=333333"/>
 </p>
-</p>
-<p align="center">
-<img src="https://lh3.googleusercontent.com/tZyTSHd5SnQwvrD4dFxrzVC-el2MJwucRfZZ9t2vrK354nMlvsHlMYsP98KquBMjY_k=s180" height="150" width="150">
-<br><br>
-<p style="font-size:16px" align="center">
-This App lets you download & Share wallpapers.<br>
-Play Store Link - <a href="https://play.google.com/store/apps/details?id=com.ducoders.fandom&hl=en" target="_blank">wallpaper.ly</a>
-<br><br>
-<b>for more check out my github ......</b>
-</p>
-</p>
-
-
