@@ -1,7 +1,7 @@
 Welcome to my Profile 😄
 =====================
 <p align="center">
-<img src="https://github.com/shubhamaniket/shubhamaniket/blob/master/giphy.gif" width="200" height="200" align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shubhamaniket&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=333333"/>
 </p>
 
 <br>
@@ -28,7 +28,3 @@ I am Shubham Aniket and here is a bit about myself. 😄
 <li>Currently trying to write dev articles ✍</li>
 <li>Want to learn Internet of Things 💡 in future.</li>
 </ul>
-<br>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhamaniket&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=333333"/>
-</p>
