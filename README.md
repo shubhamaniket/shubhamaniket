@@ -25,6 +25,6 @@ I am Shubham Aniket and here is a bit about myself. 😄
 <li>React Native App Developer & a UI/UX designer</li>
 <li>Made a few Apps & launched them on Play Store.</li>
 <li>Love to play guitar 🎸</li>
-<li>Currently trying to write dev articles ✍</li>
+<li>Currently trying to write dev articles & Web Scraping. ✍</li>
 <li>Want to learn Internet of Things 💡 in future.</li>
 </ul>
