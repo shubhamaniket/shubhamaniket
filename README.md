@@ -28,3 +28,7 @@ I am Shubham Aniket and here is a bit about myself. 😄
 <li>Currently trying to write dev articles & Web Scraping. ✍</li>
 <li>Want to learn Internet of Things 💡 in future.</li>
 </ul>
+<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamaniket"/>
+</p>
