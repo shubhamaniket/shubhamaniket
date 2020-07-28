@@ -1,34 +1,24 @@
-Welcome to my Profile 😄
-=====================
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhamaniket&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=333333"/>
-</p>
+<h1 align="center">Hi 👋, I'm Shubham Aniket</h1>
+<h3 align="center">A passionate React Native App developer from India.</h3>
 
-<br>
+- 🔭 I’m currently working on [Devify - A Social Networking App](https://github.com/shubhamaniket/Devify)
+
+- 🌱 I’m currently learning **Web Scraping,Machine Learning 😃**
+
+- 👯 I’m looking to collaborate on [react-native](https://github.com/facebook/react-native)
+
+- 👨‍💻 All of my projects are available at [https://github.com/shubhamaniket?tab=repositories](https://github.com/shubhamaniket?tab=repositories)
+
+- 💬 Ask me about **React Native,JavaScript,App Dev,Web Scraping,APIs 🤟**
+
+- 📫 How to reach me **shubhamaniket6@gmail.com**
+
+- ⚡ Fun fact **Space Enthusiast, Coffee Person 🍵**
+
+<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="20" height="20"/></p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shubhamaniket&show_icons=true" alt="shubhamaniket" /> </p>
 
 <p align="center">
-<a href="https://play.google.com/store/apps/collection/cluster?clp=igM5ChkKEzYxMzM5MTE3NjQ4OTA5MzI3MzYQCBgDEhoKFGNvbS5kdW9jb2RlcnMudW5rZXB0EAEYAxgB:S:ANO1ljKZk7s&gsr=CjyKAzkKGQoTNjEzMzkxMTc2NDg5MDkzMjczNhAIGAMSGgoUY29tLmR1b2NvZGVycy51bmtlcHQQARgDGAE%3D:S:ANO1ljJ6nrM&hl=en" target="_blank">
-<img src="https://raw.githubusercontent.com/shubhamaniket/shubhamaniket/master/play.png" width="50" height="50">
-</a>
-<a href="https://www.linkedin.com/in/shubhamaniket/" target="_blank">
-<img src="linkedin.png" width="50" height="50">
-</a>
-</p>
-
-<br>
-<p>
-Hey There Folks ! ✌<br><br>
-I am Shubham Aniket and here is a bit about myself. 😄 
-</p>
-<h2>About</h3>
-<ul>
-<li>React Native App Developer & a UI/UX designer</li>
-<li>Made a few Apps & launched them on Play Store.</li>
-<li>Love to play guitar 🎸</li>
-<li>Currently trying to write dev articles & Web Scraping. ✍</li>
-<li>Want to learn Internet of Things 💡 in future.</li>
-</ul>
-<br>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamaniket"/>
+<a href="https://twitter.com/shubhamaniket4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="shubhamaniket4" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/shubhamaniket" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shubhamaniket" height="20" width="20" /></a>
+<a href="https://www.youtube.com/c/codeninja" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="codeninja" height="20" width="20" /></a>
 </p>
