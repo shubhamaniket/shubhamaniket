@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubham Aniket</h1>
 <h3 align="center">A passionate React Native App developer from India.</h3>
 
-- 🔭 I’m currently working on [Devify - A Social Networking App](https://github.com/shubhamaniket/Devify)
+- 🔭 I’m currently working on [Data-Structures-Algorithms ](https://github.com/shubhamaniket/Data-Structures-Algorithms)
 
 - 🌱 I’m currently learning **Web Scraping,Machine Learning 😃**
 
